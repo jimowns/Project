@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservatie", "Reservatie\Reservatie.csproj", "{A32B99E0-CE46-47D0-ABE2-081D258114C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservatie.Tests", "Reservatie.Tests\Reservatie.Tests.csproj", "{38A94066-63C6-466E-8342-AACBD3BD636F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32B99E0-CE46-47D0-ABE2-081D258114C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32B99E0-CE46-47D0-ABE2-081D258114C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32B99E0-CE46-47D0-ABE2-081D258114C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32B99E0-CE46-47D0-ABE2-081D258114C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A94066-63C6-466E-8342-AACBD3BD636F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A94066-63C6-466E-8342-AACBD3BD636F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A94066-63C6-466E-8342-AACBD3BD636F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A94066-63C6-466E-8342-AACBD3BD636F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
